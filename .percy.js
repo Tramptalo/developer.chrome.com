@@ -3,6 +3,7 @@ const SNAPSHOTS = [
   '/en/content-types/blog-landing/index.html',
   '/en/content-types/blog-post/index.html',
   '/en/content-types/docs-landing/index.html',
+  '/en/content-types/meet-the-team/index.html',
 ];
 
 module.exports = {
